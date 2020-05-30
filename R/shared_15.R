@@ -8,7 +8,7 @@ library(RColorBrewer)
 
 data <- read.csv ("https://raw.githubusercontent.com/julianademorais/cancer-R/master/sharedproteins_15.csv")
 
-#rename rows after attriubtes
+#rename rows after attributes
 rownames(data) <- data[,1]
 
 #strip attribute column out
