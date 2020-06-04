@@ -2,11 +2,11 @@
 install.packages(pkgs = c("pheatmap", "RColorBrewer"),
                  dependencies = T)
 
-#load the following packages
+#load packages
 library(pheatmap)
 library(RColorBrewer)
 
-data <- read.csv ("https://raw.githubusercontent.com/julianademorais/cancer-secretome/master/R/heatmapshared15.csv")
+data <- read.csv ("https://raw.githubusercontent.com/julianademorais/cancer-secretome/master/R/heatmap-shared15.csv")
 
 #rename rows after attributes
 rownames(data) <- data[,1]
