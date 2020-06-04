@@ -5,7 +5,7 @@ install.packages(pkgs = c("UpSetR", "RColorBrewer"),
 library(UpSetR)
 library(RColorBrewer)
 
-data <- read.csv("https://raw.githubusercontent.com/julianademorais/cancer-R/master/all_proteins.csv")
+data <- read.csv("https://raw.githubusercontent.com/julianademorais/cancer-secretome/master/R/all_proteins.csv")
 
 
 #15 shared proteins
@@ -15,7 +15,7 @@ upset(data, nsets =9, nintersects= 4, number.angles = 1, order.by= "degree",
       sets.bar.color= "#56B4E9",
       keep.order=TRUE,
       point.size = 3.5, line.size = 1.0, 
-      mainbar.y.label = "Proteínas compartilhadas", sets.x.label = "Proteínas por tipo de câncer", 
+      mainbar.y.label = "ProteÃ­nas compartilhadas", sets.x.label = "ProteÃ­nas por tipo de cÃ¢ncer", 
       text.scale = c(5.0, 3.5, 3.0, 3.0, 3.5, 3.5))
 
 
@@ -42,7 +42,7 @@ upset(data, nsets =9, nintersects=90, number.angles = 1, order.by= "degree",
                      
       
       point.size = 3.5, line.size = 1.0, 
-      mainbar.y.label = "Proteínas compartilhadas", sets.x.label = "Proteínas por tipo de câncer",
+      mainbar.y.label = "ProteÃ­nas compartilhadas", sets.x.label = "ProteÃ­nas por tipo de cÃ¢ncer",
       text.scale = c(5.0, 3.5, 3.0, 3.0, 3.5, 3.5))
 
 
@@ -55,6 +55,6 @@ upset(data, nsets =9, nintersects= 9, number.angles = 1, order.by= "freq",
       sets.bar.color= "#56B4E9",
       keep.order=TRUE,
       point.size = 3.5, line.size = 1.0, 
-      mainbar.y.label = "Proteínas compartilhadas", sets.x.label = "Proteínas por tipo de câncer", 
+      mainbar.y.label = "ProteÃ­nas compartilhadas", sets.x.label = "ProteÃ­nas por tipo de cÃ¢ncer", 
       text.scale = c(5.0, 3.5, 3.0, 3.0, 3.5, 3.5))
 
