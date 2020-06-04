@@ -1,0 +1,91 @@
+individual,group,value
+Breast,EIF4B,5
+Colon,EIF4B,19
+Ewing sarcoma,EIF4B,0
+Melanoma,EIF4B,48
+Ovary,EIF4B,6
+Prostate,EIF4B,2
+Breast,LMNA,4
+Colon,LMNA,11
+Ewing sarcoma,LMNA,9
+Melanoma,LMNA,30
+Ovary,LMNA,6
+Prostate,LMNA,6
+Breast,MTPN,2
+Colon,MTPN,2
+Ewing sarcoma,MTPN,0
+Melanoma,MTPN,2
+Ovary,MTPN,0
+Prostate,MTPN,0
+Breast,NPM1,2
+Colon,NPM1,11
+Ewing sarcoma,NPM1,9
+Melanoma,NPM1,16
+Ovary,NPM1,0
+Prostate,NPM1,0
+Breast,NUDC,4
+Colon,NUDC,11
+Ewing sarcoma,NUDC,0
+Melanoma,NUDC,16
+Ovary,NUDC,4
+Prostate,NUDC,0
+Breast,PTMS,1
+Colon,PTMS,2
+Ewing sarcoma,PTMS,0
+Melanoma,PTMS,5
+Ovary,PTMS,0
+Prostate,PTMS,2
+Breast,RANBP1,0
+Colon,RANBP1,9
+Ewing sarcoma,RANBP1,0
+Melanoma,RANBP1,5
+Ovary,RANBP1,0
+Prostate,RANBP1,0
+Breast,RPL13,0
+Colon,RPL13,2
+Ewing sarcoma,RPL13,0
+Melanoma,RPL13,2
+Ovary,RPL13,0
+Prostate,RPL13,0
+Breast,RPS7,1
+Colon,RPS7,4
+Ewing sarcoma,RPS7,0
+Melanoma,RPS7,9
+Ovary,RPS7,0
+Prostate,RPS7,0
+Breast,SEPTIN9,9
+Colon,SEPTIN9,19
+Ewing sarcoma,SEPTIN9,9
+Melanoma,SEPTIN9,27
+Ovary,SEPTIN9,0
+Prostate,SEPTIN9,8
+Breast,SSB,4
+Colon,SSB,11
+Ewing sarcoma,SSB,0
+Melanoma,SSB,14
+Ovary,SSB,2
+Prostate,SSB,2
+Breast,STIP1,5
+Colon,STIP1,22
+Ewing sarcoma,STIP1,0
+Melanoma,STIP1,20
+Ovary,STIP1,8
+Prostate,STIP1,2
+Breast,TBCA,1
+Colon,TBCA,9
+Ewing sarcoma,TBCA,0
+Melanoma,TBCA,5
+Ovary,TBCA,2
+Prostate,TBCA,0
+Breast,TPD52L2,20
+Colon,TPD52L2,6
+Ewing sarcoma,TPD52L2,0
+Melanoma,TPD52L2,9
+Ovary,TPD52L2,0
+Prostate,TPD52L2,0
+Breast,TRIM28,8
+Colon,TRIM28,9
+Ewing sarcoma,TRIM28,0
+Melanoma,TRIM28,32
+Ovary,TRIM28,0
+Prostate,TRIM28,4
