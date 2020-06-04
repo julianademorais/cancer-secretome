@@ -6,7 +6,7 @@ install.packages(pkgs = c("UpSetR", "RColorBrewer"),
 library(UpSetR)
 library(RColorBrewer)
 
-data <- read.csv("https://raw.githubusercontent.com/julianademorais/cancer-secretome/master/R/all_proteins.csv")
+data <- read.csv("https://raw.githubusercontent.com/julianademorais/cancer-secretome/master/R/all-proteins.csv")
 
 #15 shared proteins
 
