@@ -1,4 +1,4 @@
-gene,Breast,Colon,Ewing_sarcoma,Melanoma,Ovary,Prostate
+gene,breast,colon,ewing_sarcoma,melanoma,ovary,prostate
 LMNA,0,0,0,0,0,0
 NPM1,0,1,0,0,0,0
 STIP1,0,1,0,0,0,0
