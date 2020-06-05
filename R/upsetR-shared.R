@@ -51,3 +51,14 @@ upset(data, nsets =9, nintersects= 9, number.angles = 1, order.by= "freq",
       point.size = 3.5, line.size = 1.0, 
       mainbar.y.label = "Proteínas compartilhadas", sets.x.label = "Proteínas por tipo de câncer", 
       text.scale = c(5.0, 3.5, 3.0, 3.0, 3.5, 3.5))
+
+#shared NLS genes
+
+data <- read.csv("https://raw.githubusercontent.com/julianademorais/cancer-secretome/master/R/NLS-shared.csv")
+
+upset(data, nsets =9, number.angles = 1, order.by= "freq",  
+      sets.bar.color= "#56B4E9",
+      keep.order=TRUE,
+      point.size = 3.5, line.size = 1.0, 
+      mainbar.y.label = "Genes compartilhados", sets.x.label = "Genes por tipo de câncer", 
+      text.scale = c(5.0, 3.5, 3.0, 3.0, 3.5, 3.5))
