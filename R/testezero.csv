@@ -1,0 +1,96 @@
+individual,group,value 
+high,CBX3,50
+medium ,CBX3,30
+low,CBX3,20
+not detected,CBX3,10
+,CBX3,0
+high,EIF4B,50
+medium ,EIF4B,30
+low,EIF4B,25
+not detected,EIF4B,10
+,EIF4B,0
+high,ELOC,50
+medium ,ELOC,30
+low,ELOC,30
+not detected,ELOC,10
+,ELOC,0
+high,LMNA,50
+medium ,LMNA,30
+low,LMNA,30
+not detected,LMNA,30
+,LMNA,0
+high,NPM1,50
+medium ,NPM1,30
+low,NPM1,30
+not detected,NPM1,10
+,NPM2,0
+high,NUCKS1,50
+medium ,NUCKS1,30
+low,NUCKS1,30
+not detected,NUCKS1,10
+,NUCKS2,0
+high,NUDC,50
+medium ,NUDC,30
+low,NUDC,30
+not detected,NUDC,10
+,NUDC,0
+high,RANBP1,50
+medium ,RANBP1,30
+low,RANBP1,30
+not detected,RANBP1,10
+,RANBP2,0
+high,RPL13,50
+medium ,RPL13,30
+low,RPL13,30
+not detected,RPL13,10
+,RPL14,0
+high,SAE1,50
+medium ,SAE1,30
+low,SAE1,30
+not detected,SAE1,10
+,SAE1,0
+high,SAE2,50
+medium ,SAE2,30
+low,SAE2,30
+not detected,SAE2,10
+,SAE2,0
+high,SEPTIN9,50
+medium ,SEPTIN9,30
+low,SEPTIN9,30
+not detected,SEPTIN9,10
+,SEPTIN9,0
+high,SF3A1,50
+medium ,SF3A1,30
+low,SF3A1,30
+not detected,SF3A1,10
+,SF3A1,0
+high,SSB,50
+medium ,SSB,30
+low,SSB,30
+not detected,SSB,10
+,SSB,0
+high,STIP1,50
+medium ,STIP1,30
+low,STIP1,30
+not detected,STIP1,10
+,STIP1,0
+high,STRAP,50
+medium ,STRAP,30
+low,STRAP,30
+not detected,STRAP,10
+,STRAP,0
+high,TBCA,50
+medium ,TBCA,30
+low,TBCA,30
+not detected,TBCA,10
+,TBCA,0
+high,TPD52L2,50
+medium ,TPD52L2,30
+low,TPD52L2,30
+not detected,TPD52L2,10
+,TPD52L2,0
+high,TRIM28,50
+medium ,TRIM28,30
+low,TRIM28,30
+not detected,TRIM28,10
+,TRIM29,0
