@@ -1,17 +1,17 @@
 individual,group,value
-high,Breast,5
-medium ,Breast,3
-low,Breast,1
-not detected,Breast,1
-high,Colon,5
-medium ,Colon,5
-low,Colon,2
+high,Breast,50
+medium ,Breast,30
+low,Breast,10
+not detected,Breast,10
+high,Colon,50
+medium ,Colon,50
+low,Colon,20
 not detected,Colon,0
-high,Melanoma,4
-medium ,Melanoma,5
-low,Melanoma,1
-not detected,Melanoma,2
-high,Ovary,4
-medium ,Ovary,4
-low,Ovary,3
+high,Melanoma,40
+medium ,Melanoma,50
+low,Melanoma,10
+not detected,Melanoma,20
+high,Ovary,40
+medium ,Ovary,40
+low,Ovary,30
 not detected,Ovary,0
