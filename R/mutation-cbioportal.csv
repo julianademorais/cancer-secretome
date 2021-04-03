@@ -1,7 +1,7 @@
 individual,group,value
 Breast,EIF4B,5
 Colon,EIF4B,19
-Ewing sarcoma,EIF4B,0
+Ewing sarcoma,EIF4B,5
 Melanoma,EIF4B,48
 Ovary,EIF4B,6
 Prostate,EIF4B,2
@@ -13,79 +13,79 @@ Ovary,LMNA,6
 Prostate,LMNA,6
 Breast,MTPN,2
 Colon,MTPN,2
-Ewing sarcoma,MTPN,0
+Ewing sarcoma,MTPN,10
 Melanoma,MTPN,2
-Ovary,MTPN,0
-Prostate,MTPN,0
+Ovary,MTPN,10
+Prostate,MTPN,10
 Breast,NPM1,2
 Colon,NPM1,11
 Ewing sarcoma,NPM1,9
 Melanoma,NPM1,16
-Ovary,NPM1,0
-Prostate,NPM1,0
+Ovary,NPM1,10
+Prostate,NPM1,10
 Breast,NUDC,4
 Colon,NUDC,11
-Ewing sarcoma,NUDC,0
+Ewing sarcoma,NUDC,10
 Melanoma,NUDC,16
 Ovary,NUDC,4
-Prostate,NUDC,0
+Prostate,NUDC,10
 Breast,PTMS,1
 Colon,PTMS,2
-Ewing sarcoma,PTMS,0
+Ewing sarcoma,PTMS,10
 Melanoma,PTMS,5
-Ovary,PTMS,0
+Ovary,PTMS,10
 Prostate,PTMS,2
-Breast,RANBP1,0
+Breast,RANBP1,10
 Colon,RANBP1,9
-Ewing sarcoma,RANBP1,0
+Ewing sarcoma,RANBP1,10
 Melanoma,RANBP1,5
-Ovary,RANBP1,0
-Prostate,RANBP1,0
-Breast,RPL13,0
+Ovary,RANBP1,10
+Prostate,RANBP1,10
+Breast,RPL13,10
 Colon,RPL13,2
-Ewing sarcoma,RPL13,0
+Ewing sarcoma,RPL13,1
 Melanoma,RPL13,2
-Ovary,RPL13,0
-Prostate,RPL13,0
+Ovary,RPL13,10
+Prostate,RPL13,10
 Breast,RPS7,1
 Colon,RPS7,4
-Ewing sarcoma,RPS7,0
+Ewing sarcoma,RPS7,10
 Melanoma,RPS7,9
-Ovary,RPS7,0
-Prostate,RPS7,0
+Ovary,RPS7,10
+Prostate,RPS7,10
 Breast,SEPTIN9,9
 Colon,SEPTIN9,19
 Ewing sarcoma,SEPTIN9,9
 Melanoma,SEPTIN9,27
-Ovary,SEPTIN9,0
+Ovary,SEPTIN9,10
 Prostate,SEPTIN9,8
 Breast,SSB,4
 Colon,SSB,11
-Ewing sarcoma,SSB,0
+Ewing sarcoma,SSB,10
 Melanoma,SSB,14
 Ovary,SSB,2
 Prostate,SSB,2
 Breast,STIP1,5
 Colon,STIP1,22
-Ewing sarcoma,STIP1,0
+Ewing sarcoma,STIP1,10
 Melanoma,STIP1,20
 Ovary,STIP1,8
 Prostate,STIP1,2
 Breast,TBCA,1
 Colon,TBCA,9
-Ewing sarcoma,TBCA,0
+Ewing sarcoma,TBCA,10
 Melanoma,TBCA,5
 Ovary,TBCA,2
-Prostate,TBCA,0
+Prostate,TBCA,10
 Breast,TPD52L2,20
 Colon,TPD52L2,6
-Ewing sarcoma,TPD52L2,0
+Ewing sarcoma,TPD52L2,10
 Melanoma,TPD52L2,9
-Ovary,TPD52L2,0
-Prostate,TPD52L2,0
+Ovary,TPD52L2,10
+Prostate,TPD52L2,10
 Breast,TRIM28,8
 Colon,TRIM28,9
-Ewing sarcoma,TRIM28,0
+Ewing sarcoma,TRIM28,10
 Melanoma,TRIM28,32
-Ovary,TRIM28,0
+Ovary,TRIM28,10
 Prostate,TRIM28,4
