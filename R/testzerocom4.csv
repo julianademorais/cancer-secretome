@@ -1,0 +1,22 @@
+individual,group,value 
+,CBX3,0
+high,CBX3,60
+medium ,CBX3,30
+low,CBX3,20
+not detected,CBX3,10
+,CBX3,0
+high,EIF4B,50
+medium ,EIF4B,30
+low,EIF4B,25
+not detected,EIF4B,10
+,EIF4B,0
+high,ELOC,50
+medium ,ELOC,30
+low,ELOC,30
+not detected,ELOC,10
+,ELOC,0
+high,LMNA,50
+medium ,LMNA,30
+low,LMNA,30
+not detected,LMNA,30
+,LMNA,0
